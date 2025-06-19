@@ -1,0 +1,14 @@
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\bin\Debug\net9.0\exercicio_fruta_array.exe
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\bin\Debug\net9.0\exercicio_fruta_array.deps.json
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\bin\Debug\net9.0\exercicio_fruta_array.runtimeconfig.json
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\bin\Debug\net9.0\exercicio_fruta_array.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\bin\Debug\net9.0\exercicio_fruta_array.pdb
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.AssemblyInfoInputs.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.AssemblyInfo.cs
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\refint\exercicio_fruta_array.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.pdb
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\exercicio_fruta_array.genruntimeconfig.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\exercicio_fruta_array\obj\Debug\net9.0\ref\exercicio_fruta_array.dll

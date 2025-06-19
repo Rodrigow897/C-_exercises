@@ -1,0 +1,14 @@
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\bin\Debug\net9.0\Exe3.exe
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\bin\Debug\net9.0\Exe3.deps.json
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\bin\Debug\net9.0\Exe3.runtimeconfig.json
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\bin\Debug\net9.0\Exe3.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\bin\Debug\net9.0\Exe3.pdb
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.AssemblyInfoInputs.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.AssemblyInfo.cs
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\refint\Exe3.dll
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.pdb
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\Exe3.genruntimeconfig.cache
+C:\Users\rwesl\source\repos\exercicio_fruta_array\Exe3\obj\Debug\net9.0\ref\Exe3.dll
