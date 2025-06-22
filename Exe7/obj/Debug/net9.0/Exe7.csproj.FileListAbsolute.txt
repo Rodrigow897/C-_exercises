@@ -1,0 +1,15 @@
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\bin\Debug\net9.0\Exe7.exe
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\bin\Debug\net9.0\Exe7.deps.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\bin\Debug\net9.0\Exe7.runtimeconfig.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\bin\Debug\net9.0\Exe7.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\bin\Debug\net9.0\Exe7.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.AssemblyInfoInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.AssemblyInfo.cs
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.sourcelink.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\refint\Exe7.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\Exe7.genruntimeconfig.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe7\obj\Debug\net9.0\ref\Exe7.dll
