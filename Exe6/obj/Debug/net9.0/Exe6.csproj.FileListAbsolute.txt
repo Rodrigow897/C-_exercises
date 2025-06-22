@@ -1,0 +1,15 @@
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\bin\Debug\net9.0\Exe6.exe
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\bin\Debug\net9.0\Exe6.deps.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\bin\Debug\net9.0\Exe6.runtimeconfig.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\bin\Debug\net9.0\Exe6.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\bin\Debug\net9.0\Exe6.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.AssemblyInfoInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.AssemblyInfo.cs
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.sourcelink.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\refint\Exe6.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\Exe6.genruntimeconfig.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\Exe6\obj\Debug\net9.0\ref\Exe6.dll
