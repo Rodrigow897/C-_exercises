@@ -1,0 +1,15 @@
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.AssemblyInfoInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.AssemblyInfo.cs
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.sourcelink.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\bin\Debug\net9.0\ExeContaBancaria.exe
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\bin\Debug\net9.0\ExeContaBancaria.deps.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\bin\Debug\net9.0\ExeContaBancaria.runtimeconfig.json
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\bin\Debug\net9.0\ExeContaBancaria.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\bin\Debug\net9.0\ExeContaBancaria.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\refint\ExeContaBancaria.dll
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.pdb
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ExeContaBancaria.genruntimeconfig.cache
+C:\Users\rwesl\Desktop\Programing\C#\C-_exercises\ExeContaBancaria\obj\Debug\net9.0\ref\ExeContaBancaria.dll
