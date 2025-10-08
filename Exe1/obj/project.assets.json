@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rwesl\\Desktop\\Programing\\C#\\C-_exercises\\Exe1\\Exe1.csproj",
+      "projectUniqueName": "C:\\Users\\rwesl\\Desktop\\C#\\C-_exercises\\Exe1\\Exe1.csproj",
       "projectName": "Exe1",
-      "projectPath": "C:\\Users\\rwesl\\Desktop\\Programing\\C#\\C-_exercises\\Exe1\\Exe1.csproj",
+      "projectPath": "C:\\Users\\rwesl\\Desktop\\C#\\C-_exercises\\Exe1\\Exe1.csproj",
       "packagesPath": "C:\\Users\\rwesl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rwesl\\Desktop\\Programing\\C#\\C-_exercises\\Exe1\\obj\\",
+      "outputPath": "C:\\Users\\rwesl\\Desktop\\C#\\C-_exercises\\Exe1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
